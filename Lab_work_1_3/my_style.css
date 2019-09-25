@@ -1,0 +1,102 @@
+body{background-image: url("lomo_25_12338_oboi_firewatch_1920x1200.jpg")}
+h1
+{font-size: 20pt;
+  color: #d40033;
+  text-align: center;
+  margin-left:15%;
+  margin-right:15%;
+  font-family: Arial, serif;
+  text-shadow:
+    -0   -3px 1px #FFFFFF,
+    0   -3px 1px #FFFFFF,
+    -0    3px 1px #FFFFFF,
+    0    3px 1px #FFFFFF,
+    -3px -0   1px #FFFFFF,
+    3px -0   1px #FFFFFF,
+    -3px  0   1px #FFFFFF,
+    3px  0   1px #FFFFFF,
+    -1px -3px 1px #FFFFFF,
+    1px -3px 1px #FFFFFF,
+    -1px  3px 1px #FFFFFF,
+    1px  3px 1px #FFFFFF,
+    -3px -1px 1px #FFFFFF,
+    3px -1px 1px #FFFFFF,
+    -3px  1px 1px #FFFFFF,
+    3px  1px 1px #FFFFFF,
+    -2px -3px 1px #FFFFFF,
+    2px -3px 1px #FFFFFF,
+    -2px  3px 1px #FFFFFF,
+    2px  3px 1px #FFFFFF,
+    -3px -2px 1px #FFFFFF,
+    3px -2px 1px #FFFFFF,
+    -3px  2px 1px #FFFFFF,
+    3px  2px 1px #FFFFFF,
+    -3px -3px 1px #FFFFFF,
+    3px -3px 1px #FFFFFF,
+    -3px  3px 1px #FFFFFF,
+    3px  3px 1px #FFFFFF,
+    -3px -3px 1px #FFFFFF,
+    3px -3px 1px #FFFFFF,
+    -3px  3px 1px #FFFFFF,
+    3px  3px 1px #FFFFFF;}
+
+p
+{text-indent:1cm;
+  font-size: 14pt;
+  text-align: justify;
+  margin-left:15%;
+  margin-right:15%;
+  font-family: "CCRickVeitch W05(RUS BY LYAJKA)", serif;
+  text-shadow:
+    -0   -2px 1px #FFFFFF,
+    0   -2px 1px #FFFFFF,
+    -0    2px 1px #FFFFFF,
+    0    2px 1px #FFFFFF,
+    -2px -0   1px #FFFFFF,
+    2px -0   1px #FFFFFF,
+    -2px  0   1px #FFFFFF,
+    2px  0   1px #FFFFFF,
+    -1px -2px 1px #FFFFFF,
+    1px -2px 1px #FFFFFF,
+    -1px  2px 1px #FFFFFF,
+    1px  2px 1px #FFFFFF,
+    -2px -1px 1px #FFFFFF,
+    2px -1px 1px #FFFFFF,
+    -2px  1px 1px #FFFFFF,
+    2px  1px 1px #FFFFFF,
+    -2px -2px 1px #FFFFFF,
+    2px -2px 1px #FFFFFF,
+    -2px  2px 1px #FFFFFF,
+    2px  2px 1px #FFFFFF,
+    -2px -2px 1px #FFFFFF,
+    2px -2px 1px #FFFFFF,
+    -2px  2px 1px #FFFFFF,
+    2px  2px 1px #FFFFFF;}
+
+p.footer
+{text-indent:1cm;
+  font-size: 10pt;
+  text-align: justify;
+  margin-left:15%;
+  margin-right:15%;
+  font-family: "CCRickVeitch W05(RUS BY LYAJKA)", serif;
+  text-shadow:
+    -0   -1px 1px #FFFFFF,
+    0   -1px 1px #FFFFFF,
+    -0    1px 1px #FFFFFF,
+    0    1px 1px #FFFFFF,
+    -1px -0   1px #FFFFFF,
+    1px -0   1px #FFFFFF,
+    -1px  0   1px #FFFFFF,
+    1px  0   1px #FFFFFF,
+    -1px -1px 1px #FFFFFF,
+    1px -1px 1px #FFFFFF,
+    -1px  1px 1px #FFFFFF,
+    1px  1px 1px #FFFFFF,
+    -1px -1px 1px #FFFFFF,
+    1px -1px 1px #FFFFFF,
+    -1px  1px 1px #FFFFFF,
+    1px  1px 1px #FFFFFF;}
+
+span.red
+{color: #d40033}
