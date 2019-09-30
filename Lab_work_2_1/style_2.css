@@ -1,0 +1,17 @@
+Body {
+    Width:960px;
+    Font-family: Times New Roman, serif}
+header#page_header{ width:100%; /* Затем определим ширину заголовка */
+}
+ol {margin-left: 10pt} /* Отступ слева 20 пикселей */
+ul {margin-left: 30pt}/* Отступ слева 40 пикселей */
+li {
+    font-family: arial, serif;}
+header#page_header nav li, footer#page_footer nav li {
+    padding: 0; /* убрать внешние отступы */
+    margin: 0 20px 0 0;
+    display: inline; }
+header#page_header nav ul li, footer#page_footer nav ul li{
+    padding: 0; /* убрать внешние отступы */
+    margin: 0 20px 0 0;
+    display: inline; }
