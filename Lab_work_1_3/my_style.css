@@ -1,10 +1,12 @@
 body{background-image: url("lomo_25_12338_oboi_firewatch_1920x1200.jpg")}
+.conteiner {
+  margin-left:15%;
+  margin-right:15%;
+}
 h1
 {font-size: 20pt;
   color: #d40033;
   text-align: center;
-  margin-left:15%;
-  margin-right:15%;
   font-family: Arial, serif;
   text-shadow:
     -0   -3px 1px #FFFFFF,
@@ -40,12 +42,11 @@ h1
     -3px  3px 1px #FFFFFF,
     3px  3px 1px #FFFFFF;}
 
+
 p
 {text-indent:1cm;
   font-size: 14pt;
   text-align: justify;
-  margin-left:15%;
-  margin-right:15%;
   font-family: "CCRickVeitch W05(RUS BY LYAJKA)", serif;
   text-shadow:
     -0   -2px 1px #FFFFFF,
@@ -73,12 +74,10 @@ p
     -2px  2px 1px #FFFFFF,
     2px  2px 1px #FFFFFF;}
 
-p.footer
-{text-indent:1cm;
+.footer p
+{ text-indent: 0;
   font-size: 10pt;
   text-align: justify;
-  margin-left:15%;
-  margin-right:15%;
   font-family: "CCRickVeitch W05(RUS BY LYAJKA)", serif;
   text-shadow:
     -0   -1px 1px #FFFFFF,
@@ -100,3 +99,18 @@ p.footer
 
 span.red
 {color: #d40033}
+
+.clearfix:after{
+  clear: both;
+  content: "";
+  display: table;
+}
+#feeds {
+  float: left;
+}
+#copyright{
+  float: right;
+}
+#copyright p{
+  margin-top: 5px;
+}
